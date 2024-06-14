@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NWS Weather Alerts</string>
+    <string name="update_time">Last update:</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="title">National Weather Service alerts</string>
+</resources>
